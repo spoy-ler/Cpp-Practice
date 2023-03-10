@@ -1,0 +1,4 @@
+﻿  Working with strings.cpp
+D:\Lera\cpp-practice\Working with strings\Working with strings\Working with strings.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Lera\cpp-practice\Working with strings\Working with strings\Working with strings.cpp(31,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Working with strings.vcxproj -> D:\Lera\cpp-practice\Working with strings\Debug\Working with strings.exe
