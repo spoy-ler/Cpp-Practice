@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+D:\Lera\cpp-practice\Functions\Functions\Functions.cpp(31,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Lera\cpp-practice\Functions\Functions\Functions.cpp(95): warning C4715: FirstPart: значение возвращается не при всех путях выполнения
+  Functions.vcxproj -> D:\Lera\cpp-practice\Functions\Debug\Functions.exe
